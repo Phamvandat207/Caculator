@@ -17,7 +17,7 @@ func calculate(operator string, number1 int, number2 int ) int{
 		if number2 = 0 {
 			fmt.Println("Can not divide by 0")
 		} else {
-		output = number1 / number2
+			output = number1 / number2
 		}
 	}
 	return output
